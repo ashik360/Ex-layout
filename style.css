@@ -1,0 +1,156 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+*{
+	margin: 0;
+	padding:0; 
+}
+
+a{
+	text-decoration: none;
+	color: inherit;
+}
+
+.font-face{
+	font-family: 'Poppins', sans-serif;
+}
+
+.lf-padding{
+	padding-right: 12px;
+	padding-left: 12px;
+}
+
+.header{
+	height: 190px;
+	background-color: #1A7BD3;
+	border-radius: 15px;
+	text-align: center;
+	margin-top: 10px;
+	color: #fff;
+}
+
+.header h1{
+	text-decoration: none;
+	color: inherit;
+	padding-top: 55px;
+}
+
+.header p{
+	color: #d1d8e0;
+}
+
+.left-container-1{
+	background-color: #f1f2f6;
+	margin-top: 15px;
+	display: inline-block;
+	border-radius: 15px;
+	border: 1px solid #5b5b5b;
+	text-align: justify;
+	width: 60%;
+	padding: 15px;
+	padding-bottom: 100px; 
+}
+
+.left-container-1 h2{
+	color: #1A7BD3;
+}
+
+.left-container-1 p{
+	margin-top: 5px;
+	font-size: 19px;
+	font-weight: 400px;
+	word-spacing: 2px;
+
+}
+
+.inner-container-1{
+	/*background-color: #dff9fb;*/
+	margin-top: 30px; 
+}
+
+.inner-container-1 img{
+	height: 115px;
+	width: 150px;
+	display: inline-block;
+	margin-bottom: 15px; 
+}
+
+.inner-container-1 p{
+	display: inline-block;
+}
+
+.inner-container-1 span{
+	color: #1A7BD3;
+}
+
+.inner-container-1 h3{
+	color: #1A7BD3;
+	
+}
+
+.inner-container-heading{
+	
+	background-color: #c7ecee;
+	padding: 6px;
+
+}
+
+
+.inner-container-des-p1{
+	width: 82%;
+	display: inline-block;
+}
+
+.inner-container-des-p2{
+	width: 82%;
+	display: inline-block;
+}
+
+.inner-container-2{
+	/*background-color: #dff9fb;*/
+	margin-top: 30px; 
+}
+
+.inner-container-2 h3,span{
+	color: #1A7BD3;
+}
+
+.inner-container-2 img{
+	height: 115px;
+	width: 150px;
+	display: inline-block;
+	margin-bottom: 5px; 
+}
+
+.right-container{
+	background-color: #f1f2f6;
+	margin-top: 15px;
+	display: inline-block;
+	border-radius: 15px;
+	border: 1px solid #5b5b5b;
+	text-align: justify;
+	width: 450px;
+	height: 520px;
+	padding: 15px;
+	margin-bottom: 615px;
+	color: #1A7BD3;
+	font-family: 'Poppins', sans-serif;
+}
+
+.box-1 a{
+	display: inline;
+	font-size: 22px;
+	padding-top: 3px;
+	padding-left: 15px;
+	
+}
+
+.hp{
+	height: 35px;
+	width: 5px;
+	background-color: grey;
+
+}
+
+.cwp{
+	margin-top: 60px;
+}
